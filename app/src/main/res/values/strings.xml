@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Material CalcYOUlater</string>
+    <string name="int_0">0</string>
+    <string name="int_1">1</string>
+    <string name="int_2">2</string>
+    <string name="int_3">3</string>
+    <string name="int_4">4</string>
+    <string name="int_5">5</string>
+    <string name="int_6">6</string>
+    <string name="int_7">7</string>
+    <string name="int_8">8</string>
+    <string name="int_9">9</string>
+    <string name="div_char">/</string>
+    <string name="mul_char">*</string>
+    <string name="sub_char">-</string>
+    <string name="add_char">+</string>
+    <string name="clear">CLR</string>
+    <string name="equal_char">=</string>
+    <string name="char_decimal_point">.</string>
+
+</resources>
