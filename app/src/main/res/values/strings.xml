@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Material CalcYOUlater</string>
+    <string name="app_name">Calculator</string>
     <string name="int_0">0</string>
     <string name="int_1">1</string>
     <string name="int_2">2</string>
@@ -11,11 +11,18 @@
     <string name="int_8">8</string>
     <string name="int_9">9</string>
     <string name="div_char">/</string>
-    <string name="mul_char">*</string>
+    <string name="mul_char">x</string>
     <string name="sub_char">-</string>
     <string name="add_char">+</string>
     <string name="clear">CLR</string>
     <string name="equal_char">=</string>
     <string name="char_decimal_point">.</string>
+    <string name="left_and_right_parenthesis">( )</string>
+    <string name="mod_char">%</string>
+    <string name="ac">AC</string>
+    <string name="unable_to_calculate_exponential">Please Clear, Unable to do calculations on Exponential Numbers</string>
+    <string name="infinity">Infinity</string>
+    <string name="nan">NaN</string>
+
 
 </resources>

@@ -11,7 +11,7 @@
         android:id="@+id/tvInput"
         style="@style/Widget.MaterialComponents.TextView"
         android:layout_width="match_parent"
-        android:layout_height="250dp"
+        android:layout_height="75dp"
         android:background="?colorPrimary"
         android:gravity="end|bottom"
         android:padding="10dp"
@@ -33,7 +33,7 @@
             android:backgroundTint="?colorPrimaryVariant"
             android:text="@string/ac"
             android:textColor="?colorOnSecondary"
-            android:textSize="25sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
         <com.google.android.material.button.MaterialButton
@@ -45,7 +45,7 @@
             android:backgroundTint="?colorSecondary"
             android:text="@string/left_and_right_parenthesis"
             android:textColor="?colorOnSecondary"
-            android:textSize="25sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
         <com.google.android.material.button.MaterialButton
@@ -57,7 +57,7 @@
             android:backgroundTint="?colorSecondary"
             android:text="@string/mod_char"
             android:textColor="?colorOnSecondary"
-            android:textSize="30sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
 
@@ -70,7 +70,7 @@
             android:backgroundTint="?colorSecondary"
             android:text="@string/div_char"
             android:textColor="?colorOnSecondary"
-            android:textSize="30sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
     </LinearLayout>
@@ -88,7 +88,7 @@
             android:layout_margin="4dp"
             android:layout_weight="1"
             android:text="@string/int_7"
-            android:textSize="25sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
         <com.google.android.material.button.MaterialButton
@@ -98,7 +98,7 @@
             android:layout_margin="4dp"
             android:layout_weight="1"
             android:text="@string/int_8"
-            android:textSize="25sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
         <com.google.android.material.button.MaterialButton
@@ -108,7 +108,7 @@
             android:layout_margin="4dp"
             android:layout_weight="1"
             android:text="@string/int_9"
-            android:textSize="25sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
         <com.google.android.material.button.MaterialButton
@@ -120,7 +120,7 @@
             android:backgroundTint="?colorSecondary"
             android:text="@string/mul_char"
             android:textColor="?colorOnSecondary"
-            android:textSize="20sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
     </LinearLayout>
@@ -138,7 +138,7 @@
             android:layout_margin="4dp"
             android:layout_weight="1"
             android:text="@string/int_4"
-            android:textSize="25sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
         <com.google.android.material.button.MaterialButton
@@ -148,7 +148,7 @@
             android:layout_margin="4dp"
             android:layout_weight="1"
             android:text="@string/int_5"
-            android:textSize="25sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
         <com.google.android.material.button.MaterialButton
@@ -158,7 +158,7 @@
             android:layout_margin="4dp"
             android:layout_weight="1"
             android:text="@string/int_6"
-            android:textSize="25sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
         <com.google.android.material.button.MaterialButton
@@ -170,7 +170,7 @@
             android:backgroundTint="?colorSecondary"
             android:text="@string/sub_char"
             android:textColor="?colorOnSecondary"
-            android:textSize="30sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
     </LinearLayout>
@@ -188,7 +188,7 @@
             android:layout_margin="4dp"
             android:layout_weight="1"
             android:text="@string/int_1"
-            android:textSize="25sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
         <com.google.android.material.button.MaterialButton
@@ -198,7 +198,7 @@
             android:layout_margin="4dp"
             android:layout_weight="1"
             android:text="@string/int_2"
-            android:textSize="25sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
         <com.google.android.material.button.MaterialButton
@@ -208,7 +208,7 @@
             android:layout_margin="4dp"
             android:layout_weight="1"
             android:text="@string/int_3"
-            android:textSize="25sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
         <com.google.android.material.button.MaterialButton
@@ -220,7 +220,7 @@
             android:backgroundTint="?colorSecondary"
             android:text="@string/add_char"
             android:textColor="?colorOnSecondary"
-            android:textSize="30sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
     </LinearLayout>
@@ -238,7 +238,7 @@
             android:layout_margin="4dp"
             android:layout_weight="1"
             android:text="@string/int_0"
-            android:textSize="25sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
         <com.google.android.material.button.MaterialButton
@@ -248,7 +248,7 @@
             android:layout_margin="4dp"
             android:layout_weight="1"
             android:text="@string/char_decimal_point"
-            android:textSize="25sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
 
@@ -261,7 +261,7 @@
             android:backgroundTint="?colorSecondaryVariant"
             android:text="@string/equal_char"
             android:textColor="?colorOnSecondary"
-            android:textSize="30sp"
+            android:textSize="15sp"
             app:cornerRadius="50dp" />
 
     </LinearLayout>
