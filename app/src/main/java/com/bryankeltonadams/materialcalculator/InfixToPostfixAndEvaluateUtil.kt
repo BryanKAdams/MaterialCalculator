@@ -35,6 +35,7 @@ class InfixToPostfixAndEvaluateUtil {
                     }
                     while (infixStack.isNotEmpty() && infixStack.last() in "+-x/%")
                         postfix += infixStack.removeLast()
+                        postfix += " "
                     infixStack.addLast(c)
                 } else if (c in "x/%") {
                     while (infixStack.isNotEmpty() && infixStack.last() in "x/%")
